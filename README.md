@@ -1,0 +1,2 @@
+# repositry
+familiarization with github
